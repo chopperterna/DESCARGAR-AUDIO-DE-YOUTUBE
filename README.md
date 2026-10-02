@@ -1,4 +1,4 @@
-# Anonymous Audio · Termux
+# DESCARGAR AUDIO DE YOUTUBE
 
 Una aplicación de terminal visual para descargar audio individual de YouTube como MP3 desde Android con Termux. Tiene una pantalla de inicio animada, un menú guiado en español, indicador de progreso, selector de carpeta y conversión automática a 192 kbps.
 
@@ -10,8 +10,8 @@ Instala [Termux](https://termux.dev/) y ejecuta estos comandos:
 
 ```bash
 pkg install -y git
-git clone https://github.com/chopperterna/anonymous-audio-termux.git
-cd anonymous-audio-termux
+git clone https://github.com/chopperterna/DESCARGAR-AUDIO-DE-YOUTUBE.git
+cd DESCARGAR-AUDIO-DE-YOUTUBE
 bash install.sh
 ```
 
@@ -22,7 +22,7 @@ El instalador instala Python, FFmpeg y yt-dlp. Android puede pedir permiso para 
 Después de la instalación, inicia la aplicación cuando quieras con:
 
 ```bash
-cd ~/anonymous-audio-termux
+cd ~/DESCARGAR-AUDIO-DE-YOUTUBE
 bash start.sh
 ```
 
